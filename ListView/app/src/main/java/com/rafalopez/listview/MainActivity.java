@@ -1,4 +1,4 @@
-package com.rafalopez.tppeliculas;
+package com.rafalopez.listview;
 
 import android.os.Bundle;
 
